@@ -11,7 +11,7 @@
 
 > **Base de conhecimento treinada com IA** para estudo aprofundado da filosofia de investimento de Benjamin Graham, com foco nos sete critérios do investidor defensivo.
 
-[📖 Acessar o Notebook](#acesso) · [🗂️ Conteúdo](#conteúdo) · [🧠 Funcionalidades](#funcionalidades) · [📚 Fontes](#fontes)
+[📖 Acessar o Notebook](https://notebooklm.google.com/notebook/56762d04-e56e-45f5-9aa5-c3ef2d2495f3)
 
 </div>
 
@@ -187,8 +187,6 @@ Desenvolvido e curado com foco em educação financeira baseada nos princípios 
 ---
 
 <div align="center">
-
-**⭐ Se este projeto foi útil para você, deixe uma estrela!**
 
 *"The intelligent investor is a realist who sells to optimists and buys from pessimists."*
 — **Benjamin Graham**
